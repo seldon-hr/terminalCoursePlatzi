@@ -1,0 +1,14 @@
+
+Command '}ls' not found, did you mean:
+
+  command 'fls' from deb sleuthkit (4.6.7-1build1)
+  command 'ils' from deb sleuthkit (4.6.7-1build1)
+  command 'ls' from deb coreutils (8.30-3ubuntu2)
+  command 'jls' from deb sleuthkit (4.6.7-1build1)
+  command 'hls' from deb hfsutils (3.2.6-14)
+  command 'bls' from deb bacula-sd (9.4.2-2ubuntu5)
+  command 'ols' from deb speech-tools (1:2.5.0-8build1)
+  command 'als' from deb atool (0.39.0-10)
+
+Try: sudo apt install <deb name>
+
