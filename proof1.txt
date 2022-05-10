@@ -1,4 +1,4 @@
-total 20K
+total 24K
 -rw-r--r-- 1 seldon seldon    0 May  4 15:22 1.html
 drwxr-xr-x 2 seldon seldon 4.0K May  4 15:10 File
 -rw-r--r-- 1 seldon seldon   23 Apr  7 12:34 README.md
@@ -11,7 +11,8 @@ drwxr-xr-x 2 seldon seldon 4.0K May  4 15:10 File
 -rw-r--r-- 1 seldon seldon   53 May  5 15:02 error.MD
 -rw-r--r-- 1 seldon seldon    0 May  4 14:58 file.txt
 -rw-r--r-- 1 seldon seldon    0 May  4 14:58 index.html
--rw-r--r-- 1 seldon seldon    0 May  9 19:58 output.txt
+-rw-r--r-- 1 seldon seldon  869 May  9 19:58 output.txt
 -rw-r--r-- 1 seldon seldon   76 May  5 14:57 proof.txt
+-rw-r--r-- 1 seldon seldon    0 May  9 20:10 proof1.txt
 -rw-r--r-- 1 seldon seldon  263 Apr  7 13:21 test.html
 -rw-r--r-- 1 seldon seldon    0 Apr  6 19:13 txts.js
